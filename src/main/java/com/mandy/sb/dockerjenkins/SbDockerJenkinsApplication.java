@@ -8,6 +8,7 @@ public class SbDockerJenkinsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbDockerJenkinsApplication.class, args);
+		System.out.println("TEST...");
 	}
 
 }
